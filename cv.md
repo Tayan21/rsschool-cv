@@ -3,6 +3,16 @@
 ### Contact information
 **Phone:** +77012620792 (Whatsapp)
 **E-mail:** bostybaev@gmail.com
+**Discord:** Tayan21
+
+### About me
+I'm 29 years old. I'm IT-specialist in small company. I want to be a JS-developer because if you are a JS-developer you can work from home or from other country. I think that i can learn Javascrip with Rsschool. Thank you guys from EPAM and rsschool for this opportunity. 
+
+### Skills
+* HTML (basic)
+* CSS (basic)
+* JavaScript (basic)
+* Git/Github (basic)
 
 ### Code example
 **Find divisors from Codewars**
@@ -28,3 +38,17 @@ function divisors(integer) {
   return arr;
 };
 ```
+### Education
+**1.Turan-Astana University**
+- Bachelor's degree in Information and Communication technologies 
+
+**2. Academy of national security**
+- Bachelor's degree in naitonal security
+
+### Experience
+IT-specialst (since 2019)
+
+### Languages
+- Kazakh
+- Russian
+- English (A2)
